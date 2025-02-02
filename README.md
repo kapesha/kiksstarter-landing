@@ -1,4 +1,4 @@
-# Kikstarter-landing
+# Kickstarter-landing
 
 ## Description
 Landing page for a kickstarter of a new audio system. Its includes header (including aside menu on tablets and mobile phones), footer and 7 sections. Adaptations for different diveces has been made and works correctly.
